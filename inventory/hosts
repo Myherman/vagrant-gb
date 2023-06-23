@@ -20,7 +20,7 @@ all:
     database:
       hosts:
         database-vm:
-          ansible_host: 10.100.10.60
+          ansible_host: 10.100.10.25
     monitoring:
       hosts:
         monitor-vm:
